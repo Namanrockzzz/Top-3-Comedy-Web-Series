@@ -1,0 +1,16 @@
+*{
+    background-color: wheat;
+}
+
+h1{
+    background-color: burlywood;
+}
+
+table{
+    background-color: rgb(201, 170, 86);;
+    width: 50%;
+}
+
+tr:hover{
+    color: red;
+}
